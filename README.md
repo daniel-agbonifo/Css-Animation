@@ -1,3 +1,3 @@
-# Just a basic demo of a css animation.
+ Just a basic demo of a css animation.
 
-Deployed page - https://jsanima.netlify.app/
+# Deployed page - https://jsanima.netlify.app/
